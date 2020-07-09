@@ -23,7 +23,7 @@ Script to dynamically assign group policies to IOS or Android clients.
 4. Pull down the project into a python virtual environment
 
 ```
-git clone https://wwwin-github.cisco.com/gve/meraki_group_policy_device_assignment.git
+git clone https://github.com/gve-sw/meraki_group_policy_device_assignment.git
 ```
 
 5. Install the required packages
